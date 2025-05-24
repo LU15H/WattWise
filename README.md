@@ -1,4 +1,8 @@
 # WattWise
+note: 
+As we were unwilling to pay and host our WattWise system publicly through a service such as Azure Synapse, the nifi, postgreSQL database, and Superset were hosted locally, set up through a docker in VS code. 
+
+
 
 Before you begin, ensure the following are installed on your system:
 
